@@ -14,4 +14,4 @@ def digitsInFactorial(n: int) -> int:
         total_digits += math.log10(i)
         
     # This return statement must be outside (unindented from) the for loop
-    return math.floor(total_digits) + 1
+    return math.floor(total_digits) + 116oct
