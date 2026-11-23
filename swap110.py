@@ -8,3 +8,6 @@ arr = arr[r:] + [0] * r # Shift array elements to the left by r positions
 # Fill the remaining empty positions with 0
 
 print("After swapping:", arr) #display
+
+
+
